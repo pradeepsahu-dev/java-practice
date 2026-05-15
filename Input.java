@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class Input{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
+
+        int a = 10;
+         ++a;
+        System.out.println(a);
      
         //  sum of A&B.
 
@@ -23,10 +27,7 @@ public class Input{
 
     //Area of circle
 
-    float rad = sc.nextFloat();
-
-    float area = 3.14f *rad*rad;
-    System.out.println(area);
+   
 
 
         
