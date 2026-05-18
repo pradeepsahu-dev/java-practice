@@ -1,4 +1,4 @@
-public class Test3 {
+public class check_palindrome {
     public static boolean Palindrom(int n){
         int original = n;
         int reverse = 0;
