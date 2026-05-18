@@ -1,5 +1,19 @@
-package Assignment5;
+// find odd oe even if odd, return false and if even then return true;
 
 public class Test2 {
+    public static boolean isEven(int n){
+
+        if(n%2 == 0){
+            return true;
+        }else{
+            return false;
+        }
+
+
+    }
+
+    public static void main(String[]args){
+        System.out.println(isEven(4));
+    }
     
 }
