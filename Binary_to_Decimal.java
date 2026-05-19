@@ -1,3 +1,6 @@
+// Binary to decimal convertion
+
+
 public class Binary_to_Decimal {
 
     public static void binaryTodecimal(int binNum){
