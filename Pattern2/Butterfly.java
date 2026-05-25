@@ -1,4 +1,7 @@
 public class Butterfly {
+
+    // butterfly batter
+    
     public static void butterfly(int n){
 
         //first half
@@ -42,7 +45,7 @@ public class Butterfly {
 
     }
     public static void main(String[]args){
-        butterfly(4);
+        butterfly(5);
 
     }
     
